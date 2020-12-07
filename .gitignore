@@ -1,0 +1,11 @@
+u_working_folder/C1_Sres_store
+u_working_folder/__pycache__
+u_working_folder/build
+u_working_folder/dist
+u_working_folder/downloads
+
+u_packaged/u_store
+u_packaged/output
+u_packaged/dist
+u_packaged/build
+u_packaged/__pycache__
